@@ -5,5 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaner&theme=dracula" />
 </a>
 
+<span>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark)](https://github.com/Mikaner/github-profile-trophy)
+</span>
