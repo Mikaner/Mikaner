@@ -1,6 +1,6 @@
 [trophy]: https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark&column=7
 [Twitter]: https://img.shields.io/twitter/follow/Mikaner?label=Twitter&logo=Twitter&style=flat
-[Qiita]: https://img.shields.io/qiita/follow/Mikaner?label=Qiita&logo=qiita&style=flat
+[Qiita]: https://img.shields.io/static/v1?label=&message=Qiita&logo=qiita&style=flat
 
 
 # 🏆 Trophy
