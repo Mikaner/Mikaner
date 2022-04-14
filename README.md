@@ -1,5 +1,5 @@
 [trophy]: https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark&column=7
-[Twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=585858&logo=Twitter
+[Twitter]: https://img.shields.io/twitter/follow/Mikaner?label=Twitter&logo=Twitter&style=flat
 [Qiita]: https://img.shields.io/static/v1?label=&message=Qiita&&color=585858&logo=qiita
 
 
