@@ -1,11 +1,13 @@
-# 🏆 Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
+[trophy]: https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark&column=7
 [Twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=585858&logo=Twitter
 [Qiita]: https://img.shields.io/static/v1?label=&message=Qiita&&color=585858&logo=qiita
+
+
+# 🏆 Trophy
+
+[![trophy]](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 [![Twitter]](https://twitter.com/MikanerExMachin) [![Qiita]](https://qiita.com/Mikaner)
 
