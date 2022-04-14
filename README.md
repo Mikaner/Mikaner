@@ -5,10 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaner&theme=dracula" />
 </a>
 
-<br>
-<hr>
-<br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark" />
-</a>
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mikaner&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
